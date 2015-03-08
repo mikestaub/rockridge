@@ -64,6 +64,7 @@
   },
   "scripts": {
     "build": "gulp",
+    "start": "node server/server.js",
     "test": "gulp test"
   }
 }
